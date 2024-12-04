@@ -1,1 +1,0 @@
-# demo-gpt-image
